@@ -1,0 +1,7 @@
+2020-06-11 22:20:11,585 INFO [test_login.py(test_login:34)] - 13911111111用户开始执行登陆
+2020-06-11 22:20:12,539 INFO [test_login.py(test_login:37)] - 开始执行mp端登陆结果断言
+2020-06-11 22:21:33,506 INFO [remote_connection.py(__init__:117)] - Could not connect to port 4723 on host 127.0.0.1
+2020-06-11 22:21:33,506 INFO [remote_connection.py(__init__:136)] - Could not get IP address for host: 127.0.0.1
+2020-06-11 22:21:35,526 WARNING [connectionpool.py(urlopen:750)] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002026CEE6EB8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+2020-06-11 22:21:37,561 WARNING [connectionpool.py(urlopen:750)] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002026CEE6F60>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+2020-06-11 22:21:39,591 WARNING [connectionpool.py(urlopen:750)] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002026CEE6B00>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
